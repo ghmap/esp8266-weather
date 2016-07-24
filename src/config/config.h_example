@@ -1,0 +1,10 @@
+#ifndef __CONFIG_H__
+#define __CONFIG_H__
+
+/// Copy this file to config.h and configure it aconrdingly your needs
+
+/* WIFI Credentials */
+#define WIFI_SSID "SSID"
+#define WIFI_PASS "PASS"
+
+#endif
